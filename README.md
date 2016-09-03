@@ -1,2 +1,2 @@
 # nalukai
-HACC Repository for team "Nalukai"
+HACC Repository for Team Nalukai.
